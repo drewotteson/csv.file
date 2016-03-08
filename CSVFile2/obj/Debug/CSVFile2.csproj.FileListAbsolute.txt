@@ -1,0 +1,6 @@
+c:\users\fountain\documents\DEV\visual.studios\CSVFile2\CSVFile2\bin\Debug\CSVFile2.exe.config
+c:\users\fountain\documents\DEV\visual.studios\CSVFile2\CSVFile2\bin\Debug\CSVFile2.exe
+c:\users\fountain\documents\DEV\visual.studios\CSVFile2\CSVFile2\bin\Debug\CSVFile2.pdb
+c:\users\fountain\documents\DEV\visual.studios\CSVFile2\CSVFile2\obj\Debug\CSVFile2.csprojResolveAssemblyReference.cache
+c:\users\fountain\documents\DEV\visual.studios\CSVFile2\CSVFile2\obj\Debug\CSVFile2.exe
+c:\users\fountain\documents\DEV\visual.studios\CSVFile2\CSVFile2\obj\Debug\CSVFile2.pdb
